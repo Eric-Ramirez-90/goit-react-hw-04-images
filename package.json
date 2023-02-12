@@ -2,7 +2,7 @@
   "name": "goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Eric-Ramirez-90/goit-react-hw-03-image-finder/",
+  "homepage": "https://Eric-Ramirez-90/goit-react-hw-04-images/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
