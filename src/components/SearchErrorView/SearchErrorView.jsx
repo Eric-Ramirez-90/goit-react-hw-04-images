@@ -14,5 +14,5 @@ const SearchError = ({ message }) => {
 export default SearchError;
 
 SearchError.propTypes = {
-  masenge: PropTypes.string.isRequired,
+  message: PropTypes.string.isRequired,
 };
